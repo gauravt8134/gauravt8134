@@ -20,7 +20,7 @@
 
 
 
-<h4 align="left">CONTRIBUTIONS:</h4>
+<h4 align="left">GITHUB STATS:</h4>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravt8134&theme=github-dark)<br/>
